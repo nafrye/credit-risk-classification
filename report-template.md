@@ -36,4 +36,4 @@ In this model, errors in falsely flagging loans as potentially unhealthy may fru
 
 I would therefore recommend using the second model, provided that the lender has enough potential customers to not worry about the 13% who might be annoyed that they would be flagged as potentially defaulting.
 
-If you do not recommend any of the models, please justify your reasoning.
+
