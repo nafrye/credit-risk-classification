@@ -1,1 +1,4 @@
 # credit-risk-classification
+Using data on 77,536 loans, a model was developed and tested in order to predict whether a loan was healthy or in danger of default. Two logistic regression models were developed. A model in which data were resampled for training purposes was found to be the most accurate, with an accuracy of 99% on the testing data. The model did misclassify 13% of healthy loans as being in danger of default. However, it preceision and recall in other domains was 100%. 
+
+With the caveat that use of this model might frustrate some who are likely to pay back their loan but be misidentified as having an unhealthy loan, it is recommended that this model be used. Should the environment change so that there are fewer people interested in taking out loan, use of this model should be re-evaluated.
